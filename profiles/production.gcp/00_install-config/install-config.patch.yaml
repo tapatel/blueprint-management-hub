@@ -5,4 +5,4 @@ metadata:
 platform:
   gcp:
     projectID: openshift-gce-devel
-    region: europe-west4
+    region: us-east1
